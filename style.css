@@ -1,0 +1,114 @@
+body { 
+
+    text-align: center;
+    background-color: #F5F5DC	;
+}
+
+h1 {
+    color: maroon;
+}
+
+p {
+    margin: 0 25%;
+    background-color: white;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+#beyonce {
+    background-color: #348e6c;
+}
+
+#Drake h1:hover {
+    color: orange;
+}
+
+#Drake:hover {
+    background-color:#E0FFFF	
+}
+
+#Beyonce:hover {
+    background-color:#2E8B57
+
+}
+
+#Taylor-Swift:hover {
+    background-color:#F4A460;
+} 
+
+#Ariana-Grande:hover {
+    background-color:#FF6347	
+}
+
+#Shawn-Mendes:hover {
+    background-color:#FFD700
+}
+
+#Eminem:hover {
+    background-color:#DAA520
+} Selena-Gomez:hover {
+    background-color
+}
+
+#Selena-Gomez:hover {
+    background-color: #E0FFFF
+}
+
+#Justin-Bieber:hover {
+    background-color: #778899
+}
+
+#Chris-Brown:hover {
+    background-color: #F5DEB3
+}
+
+#Adele:hover {
+    background-color: #008080
+}
+
+
+#nav a {
+    text-decoration: none;
+}
+
+nav {
+    font-family: 'Raleway', sans-serif;
+}
+
+nav {
+    color: black;
+}
+
+
+h1 {
+    font-family: 'Covered By Your Grace', cursive;
+}
+
+img {
+    border-radius: 50%;
+}
+
+img {
+    border-radius: 50%;
+}
+
+#nav a {
+    padding: 10px;
+    font-family: 'Nova Oval', cursive;
+    font-size: 20px;
+    color: black;
+}
+
+#nav a:hover {
+    color:white;
+    background-color: black;
+}
+
+#title {
+    background-color: orange;
+}
+
+#title:hover {
+    color: black;
+    background: #FF7F50;
+}
